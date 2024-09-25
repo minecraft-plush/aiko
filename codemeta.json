@@ -1,0 +1,31 @@
+{
+  "name": "aiko",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/minecraft-plush/aiko",
+  "dateCreated": "2024-08-06",
+  "description": ":(",
+  "issueTracker": "https://github.com/minecraft-plush/aiko/issues",
+  "keywords": [
+    "hehehe"
+  ],
+  "license": "https://spdx.org/licenses/GPL-2.0",
+  "operatingSystem": [],
+  "programmingLanguage": [],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
